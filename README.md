@@ -133,7 +133,7 @@ cd orion-website
 # Open in browser
 open index.html
 
-# open the website
+# Open the website
 https://herox21.github.io/Orion-Bits-Systems-Pvt-Ltd/
 ```
 
