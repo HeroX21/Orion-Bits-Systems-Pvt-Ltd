@@ -125,13 +125,16 @@ orion-website/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/orion-website.git
+git clone https://herox21.github.io/Orion-Bits-Systems-Pvt-Ltd.git
 
 # Navigate to the project
 cd orion-website
 
 # Open in browser
 open index.html
+
+# open the website
+https://herox21.github.io/Orion-Bits-Systems-Pvt-Ltd/
 ```
 
 No build step required.
