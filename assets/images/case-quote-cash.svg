@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" fill="none">
+  <defs>
+    <linearGradient id="bg-f" x1="76" y1="56" x2="650" y2="418" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071221"/>
+      <stop offset="1" stop-color="#0C1D37"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="480" rx="36" fill="url(#bg-f)"/>
+  <circle cx="152" cy="104" r="94" fill="#3B73EE" fill-opacity=".18"/>
+  <circle cx="590" cy="360" r="118" fill="#6B3FF0" fill-opacity=".1"/>
+  <rect x="78" y="74" width="564" height="332" rx="28" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <rect x="112" y="108" width="214" height="18" rx="9" fill="#FFFFFF" fill-opacity=".18"/>
+  <rect x="112" y="152" width="244" height="12" rx="6" fill="#BFDBFE"/>
+  <rect x="112" y="196" width="116" height="154" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <rect x="260" y="196" width="116" height="154" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <rect x="408" y="196" width="116" height="154" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <rect x="556" y="196" width="52" height="154" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <path d="M228 274H260" stroke="#3B73EE" stroke-width="8" stroke-linecap="round"/>
+  <path d="M376 274H408" stroke="#3B73EE" stroke-width="8" stroke-linecap="round"/>
+  <path d="M524 274H556" stroke="#6B3FF0" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="170" cy="230" r="16" fill="#3B73EE"/>
+  <circle cx="318" cy="230" r="16" fill="#54B3E6"/>
+  <circle cx="466" cy="230" r="16" fill="#F8FAFC"/>
+  <circle cx="582" cy="230" r="16" fill="#6B3FF0"/>
+  <text x="112" y="382" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="20" letter-spacing="2">QUOTE TO CASH AUTOMATION</text>
+</svg>

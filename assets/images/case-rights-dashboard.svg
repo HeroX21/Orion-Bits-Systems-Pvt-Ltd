@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" fill="none">
+  <defs>
+    <linearGradient id="bg-e" x1="88" y1="48" x2="632" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081525"/>
+      <stop offset="1" stop-color="#0D203B"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="480" rx="36" fill="url(#bg-e)"/>
+  <circle cx="572" cy="116" r="98" fill="#3B73EE" fill-opacity=".18"/>
+  <circle cx="136" cy="362" r="110" fill="#6B3FF0" fill-opacity=".1"/>
+  <rect x="78" y="76" width="564" height="328" rx="28" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <rect x="112" y="110" width="214" height="18" rx="9" fill="#FFFFFF" fill-opacity=".18"/>
+  <rect x="112" y="152" width="248" height="12" rx="6" fill="#BFDBFE"/>
+  <rect x="112" y="198" width="220" height="154" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <rect x="354" y="198" width="256" height="154" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <path d="M394 314C424 264 458 238 496 238C534 238 562 256 584 290" stroke="#3B73EE" stroke-width="10" stroke-linecap="round"/>
+  <path d="M394 330H584" stroke="#FFFFFF" stroke-opacity=".14" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="192" cy="244" r="46" stroke="#6B3FF0" stroke-width="16"/>
+  <text x="112" y="382" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="20" letter-spacing="2">RIGHTS &amp; METADATA DASHBOARD</text>
+</svg>

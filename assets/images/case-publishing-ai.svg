@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" fill="none">
+  <defs>
+    <linearGradient id="bg-a" x1="88" y1="40" x2="640" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1F3A"/>
+      <stop offset="1" stop-color="#040915"/>
+    </linearGradient>
+    <linearGradient id="line-a" x1="100" y1="88" x2="580" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B73EE"/>
+      <stop offset="1" stop-color="#6B3FF0"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="480" rx="36" fill="url(#bg-a)"/>
+  <circle cx="610" cy="88" r="90" fill="#3B73EE" fill-opacity=".18"/>
+  <circle cx="122" cy="374" r="112" fill="#6B3FF0" fill-opacity=".1"/>
+  <rect x="74" y="76" width="572" height="328" rx="28" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <rect x="108" y="112" width="240" height="20" rx="10" fill="#FFFFFF" fill-opacity=".16"/>
+  <rect x="108" y="152" width="174" height="12" rx="6" fill="#54B3E6" fill-opacity=".78"/>
+  <rect x="108" y="188" width="504" height="158" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <path d="M144 292C192 246.667 240 224 288 224C336 224 384 252 432 252C480 252 528 206.667 576 160" stroke="url(#line-a)" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="288" cy="224" r="12" fill="#3B73EE"/>
+  <circle cx="432" cy="252" r="12" fill="#6B3FF0"/>
+  <circle cx="576" cy="160" r="12" fill="#F8FAFC"/>
+  <rect x="108" y="370" width="168" height="14" rx="7" fill="#FFFFFF" fill-opacity=".16"/>
+  <rect x="292" y="370" width="124" height="14" rx="7" fill="#3B73EE" fill-opacity=".85"/>
+  <text x="108" y="334" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="20" letter-spacing="2">EDITORIAL INTELLIGENCE</text>
+</svg>

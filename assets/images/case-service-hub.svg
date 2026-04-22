@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" fill="none">
+  <defs>
+    <linearGradient id="bg-d" x1="60" y1="60" x2="650" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071628"/>
+      <stop offset="1" stop-color="#0A1B34"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="480" rx="36" fill="url(#bg-d)"/>
+  <circle cx="146" cy="106" r="94" fill="#3B73EE" fill-opacity=".18"/>
+  <circle cx="584" cy="364" r="118" fill="#6B3FF0" fill-opacity=".1"/>
+  <rect x="74" y="76" width="572" height="328" rx="28" fill="#FFFFFF" fill-opacity=".06" stroke="#FFFFFF" stroke-opacity=".12"/>
+  <rect x="108" y="108" width="176" height="18" rx="9" fill="#FFFFFF" fill-opacity=".18"/>
+  <rect x="108" y="152" width="220" height="12" rx="6" fill="#BFDBFE"/>
+  <rect x="108" y="196" width="240" height="156" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <rect x="372" y="196" width="240" height="70" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <rect x="372" y="282" width="240" height="70" rx="22" fill="#0B1F3A" stroke="#FFFFFF" stroke-opacity=".08"/>
+  <circle cx="164" cy="242" r="18" fill="#6B3FF0"/>
+  <rect x="198" y="228" width="106" height="10" rx="5" fill="#FFFFFF" fill-opacity=".28"/>
+  <rect x="198" y="250" width="72" height="10" rx="5" fill="#3B73EE"/>
+  <circle cx="428" cy="230" r="14" fill="#3B73EE"/>
+  <circle cx="428" cy="316" r="14" fill="#54B3E6"/>
+  <text x="108" y="382" fill="#E2E8F0" font-family="Arial, sans-serif" font-size="20" letter-spacing="2">SERVICE DESK EXPERIENCE</text>
+</svg>
